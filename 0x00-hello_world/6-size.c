@@ -12,7 +12,7 @@ printf("Size of a long int: %lu byte(s)\n", sizeof(long));
 printf("Size of a long long int: %lu byte(s)\n", sizeof(long long));
 printf("Size of a float: %lu byte(s)\n", sizeof(float));
 fprintf(stderr, "Anything\n");
-fprintf(stderr, "\n");    
+fprintf(stderr, "\n");
 
 return (0);
 }
