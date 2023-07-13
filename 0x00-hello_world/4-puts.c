@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - Starting point of execution
+ *
+ * return - indicates success, terminates program
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
