@@ -1,4 +1,4 @@
-#include main.h
+#include "main.h"
 /**
  * main - check the code
  *
@@ -6,7 +6,7 @@
  */
 void print_alphabet(void)
 {
-	char alphabets;
+	char alphabet;
 	for (alphabet = a; alphabet <= z; alphabet++)
 		_putchar(alphabet);
 
