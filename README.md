@@ -1,1 +1,1 @@
-C functions and nested loop task
+Debugging my C codes
